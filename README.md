@@ -60,12 +60,11 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 <br>
 <br>
 ---
+
+**📈 My GitHub Stats:**
 <p align="center">
 <br><img src="https://raw.githubusercontent.com/amarjeetsahoo/amarjeetsahoo/main/hadder.gif" width="280px"><br><br>
 </p>
-
----
-**📈 My GitHub Stats:**
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amarjeetsahoo&show_icons=true&theme=gotham" alt="amarjeetsahoo" />
 <br>
