@@ -58,14 +58,15 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
+<br>
+---
+<p align="center">
+<br><img src="https://raw.githubusercontent.com/amarjeetsahoo/amarjeetsahoo/main/hadder.gif" width="280px"><br><br>
+</p>
+
 ---
 **📈 My GitHub Stats:**
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amarjeetsahoo&show_icons=true&theme=gotham" alt="amarjeetsahoo" />
 <br>
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetsahoo&layout=compact" alt="amarjeetsahoo" />
- 
----
-<p align="center">
-<br><img src="https://raw.githubusercontent.com/amarjeetsahoo/amarjeetsahoo/main/hadder.gif" width="280px"><br><br>
-</p>
