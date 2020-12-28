@@ -20,8 +20,8 @@
   <img align="left" alt="Amarjeet's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-<a href="https://github.com/amarjeetsahoo">
-  <img align="left" alt="Amarjeet's GitHub" width="25px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/78-instagram-512.png" />
+<a href="http://instagram.com/amarjeethappysahoo">
+  <img align="left" alt="Amarjeet's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amarjeetsahoo.amarjeetsahoo)
@@ -36,4 +36,4 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Node Js, MongoBD; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Reach me via What'sapp: [@amarjeetsahoo](https://wa.me/916371860067?text=Hi,Amarjeet!);
+- 📫 You can Reach me via Instagram: [@amarjeetsahoo](http://instagram.com/amarjeethappysahoo);
