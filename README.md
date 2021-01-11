@@ -67,5 +67,6 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 </p>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amarjeetsahoo&show_icons=true&theme=gotham" alt="amarjeetsahoo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetsahoo&theme=gotham" alt="amarjeetsahoo" />
 <br>
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetsahoo&layout=compact" alt="amarjeetsahoo" />
