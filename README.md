@@ -36,7 +36,7 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Node Js, MongoBD; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 You can Reach me : [@amarjeetsahoo](http://instagram.com/amarjeethappysahoo);
+- 📫 You can Reach me : [@amarjeetsahoo](https://www.linkedin.com/in/amarjeetsahoo2000/);
 
 **Languages and Tools:**  
 
