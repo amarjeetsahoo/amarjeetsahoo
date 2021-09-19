@@ -20,9 +20,6 @@
   <img align="left" alt="Amarjeet's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-<a href="http://instagram.com/amarjeethappysahoo">
-  <img align="left" alt="Amarjeet's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amarjeetsahoo.amarjeetsahoo)
 
