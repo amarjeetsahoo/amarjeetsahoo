@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/amarjeetsahoo09">
-  <img align="left" alt="Amarjeet's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Amarjeet's Twitter" width="22px" src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/amarjeetsahoo2000">
-  <img align="left" alt="Amarjeet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Amarjeet's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/128/3128/3128219.png" />
 </a>
 
 <a href="https://open.spotify.com/user/3oe8m2nl8wxobwasdhfqol11m">
@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCU4bjQs8zkLE27rHr92FE0g">
-  <img align="left" alt="Amarjeet's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Amarjeet's YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/128/1077/1077046.png" />
 </a>
 
 <a href="https://github.com/amarjeetsahoo">
-  <img align="left" alt="Amarjeet's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Amarjeet's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/128/1051/1051377.png" />
 </a>
 
 
@@ -37,7 +37,7 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg"></code>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/394-3944585_microsoft-sql-server-2012-hd-png-download.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -49,7 +49,6 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br>
-<code><img height="20" src="https://camo.githubusercontent.com/06d41b00dd04c22243649eb683ca1b10a9fae6bc4fa0d89b4f4041a20e30b65a/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6865726f6b752e737667"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
