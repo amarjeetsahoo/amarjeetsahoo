@@ -25,7 +25,7 @@
 
 <br>
 
-Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a passionate self-taught Microsoft Full Stack Developer 🚀 from India.
+Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a passionate self-taught Full Stack Developer 🚀 from India.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/amarjeetsahoo/amarjeetsahoo/main/code.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
