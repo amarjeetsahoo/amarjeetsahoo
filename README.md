@@ -20,9 +20,11 @@
   <img align="left" alt="Amarjeet's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/128/1051/1051377.png" />
 </a>
 
+<br>
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/amarjeetsahoo/amarjeetsahoo)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
-
+[![pages-build-deployment](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment)
 <br>
 
 Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a passionate self-taught Full Stack Developer 🚀 from India.
