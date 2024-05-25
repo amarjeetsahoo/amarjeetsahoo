@@ -21,7 +21,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=amarjeetsahoo.amarjeetsahoo)
+[![Visits Badge](https://badges.pufler.dev/visits/amarjeetsahoo/amarjeetsahoo)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
 
 <br>
 
