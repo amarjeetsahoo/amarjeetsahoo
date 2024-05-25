@@ -23,10 +23,11 @@
 <br>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/amarjeetsahoo/amarjeetsahoo)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
+[![Visits Badge](https://img.shields.io/badge/Visits-231-brightgreen)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
+
 [![pages-build-deployment](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment)
 <br>
-
+##
 Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a passionate self-taught Full Stack Developer 🚀 from India.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/amarjeetsahoo/amarjeetsahoo/main/code.gif" width="500" height="320" />
 
