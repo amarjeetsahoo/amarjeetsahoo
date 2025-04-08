@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Visits Badge](https://img.shields.io/badge/Visits-331-brightgreen)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
+[![Visits Badge](https://img.shields.io/badge/Visits-623-brightgreen)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
 [![pages-build-deployment](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment)
 
 <a href="https://twitter.com/amarjeetsahoo09">
