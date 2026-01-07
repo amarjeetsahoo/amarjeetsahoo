@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Visits Badge](https://img.shields.io/badge/Visits-623-brightgreen)](https://amarjeetsahoo.github.io/amarjeetsahoo/)
-[![pages-build-deployment](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetsahoo&label=Profile%20views&color=00FF00&style=flat" alt="profile-visits" /></p>
+
+ [![pages-build-deployment](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/amarjeetsahoo/amarjeetsahoo/actions/workflows/pages/pages-build-deployment)
 
 <a href="https://twitter.com/amarjeetsahoo09">
   <img align="left" alt="Amarjeet's Twitter" width="22px" src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png" />
@@ -65,3 +66,5 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amarjeetsahoo&show_icons=true&theme=gotham" alt="amarjeetsahoo" />
 <br>
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetsahoo&layout=compact" alt="amarjeetsahoo" />
+
+<a href="https://gitroll.io/profile/uJrOnciuXGhf1jPxZMto0N11JhVo2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uJrOnciuXGhf1jPxZMto0N11JhVo2" width=460 height=260 alt="GitRoll Profile Badge"/></a>
