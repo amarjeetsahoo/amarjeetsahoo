@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/3oe8m2nl8wxobwasdhfqol11m">
-  <img align="left" alt="Amarjeet's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/225px-Spotify_logo_without_text.svg.png" />
+  <img align="left" alt="Amarjeet's Spotify" width="22px" src="https://www.citypng.com/public/uploads/preview/square-black-green-spotify-app-icon-png-701751694969849j7wtxvnrgo.png" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCU4bjQs8zkLE27rHr92FE0g">
