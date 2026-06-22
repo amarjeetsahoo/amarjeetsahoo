@@ -31,7 +31,7 @@ Hi, I'm [Amarjeet Sahoo!](https://www.linkedin.com/in/amarjeetsahoo2000/), a pas
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Angular, .NET, SQL Server, Azure; 
+- 🌱 I’m currently learning AI driven-development with Angular, .NET, SQL Server, Azure; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 You can Reach me : [@amarjeetsahoo](https://www.linkedin.com/in/amarjeetsahoo2000/);
 
